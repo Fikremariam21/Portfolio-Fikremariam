@@ -3,6 +3,9 @@ import { Link } from "react-router-dom";
 import evangadiForum from "../assets/evangadiForum.jpg";
 import amazon from "../assets/mazon-logo.jpg";
 import netflix from "../assets/Netflix_thumb.png";
+import tradtionalFood from "../assets/ethiopian-food.jpg";
+import AppleClone from "../assets/AppleNewClone1.jpg"
+ 
 
 const projects = [
   {
@@ -26,6 +29,21 @@ const projects = [
     image: amazon,
     github: "https://fikremariam21.github.io/Amazon_Clone_Final_Version/",
   },
+  {
+    id: 4,
+    name: "Evangadi Menu",
+    technologies: "React.js, css, express.js",
+    image: tradtionalFood,
+    github: "https://fikremariam21.github.io/EvangadiMenu/",
+  },
+  {
+    id: 5,
+    name: "Apple Clone",
+    technologies: "React.js, css, express.js,MySQL",
+    image: AppleClone,
+    github: "#",
+  },
+   
 ];
 
 const Projects = () => {

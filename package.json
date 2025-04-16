@@ -1,6 +1,8 @@
 {
-  "homepage": "https://fikremariam21.github.io/Portfolio-Fikremariam",
-  "name": "rtdashboard",
+  "homepage": "https://www.fikremariam.com",
+  "name": "portfolio-fikremariam",
+  "description": "My portfolio website showcasing my projects and skills.",
+  "author": "Fikremariam",
   "private": true,
   "version": "0.0.0",
   "type": "module",
